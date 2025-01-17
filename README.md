@@ -10,7 +10,7 @@ Philosophers is a basic implementation of threads in a program. The concept is s
 1. Clone the repository:
    ```bash
    git clone https://github.com/fveve/Philosophers.git
-   cd philosophers
+   cd Philosophers
 
 2. Compile the project:
    ```bash
